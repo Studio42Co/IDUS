@@ -1,0 +1,30 @@
+http://1drv.ms/1So9wGB
+
+Gomorron! Jag har tappat rösten...
+Men vi är agila :)
+
+Kolla länken ovan. ok access?
+
+Next: VSO. Är IDUS mail = ms konto?
+---
+ok så idag vill vi testa att jobba med kod AGILT!
+Så jag skapar ett projekt i VSO, där vi samlar allt! Krav, tasks etc... = samma som papperstavlan igår fast digitalt.
+
+Ah, jag sa vi skulle ha 2 team, eller vill ni köra som ett? ok 2, då gör jag två projekt
+
+
+
+kOMMER NI IHÅG VAD SOM SKER NU?
+Projektuppstart..
+
+MÅL!!!
+Vårt företag har köpt ett annat förtag och tagit över en webbsida. Webbsidan ska integreras och anpassas efter våra krav och mål.
+
+Som PO, är jag ansvarig för att definiera vad (krav) jag anser behöver göras och i vilken ordning. Ni som team ansvarar för att ta emot (förstå) mina krav (på riktigt förstå). Sedan tillsamman skapa en todo list (hur) ni tänker lösa uppgiften under den period (etapp/sprint) som ni har till förfogande.
+
+
+
+
+
+
+
