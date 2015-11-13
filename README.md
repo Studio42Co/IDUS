@@ -1,4 +1,4 @@
-# IDUS
+﻿# IDUS!
 
 Bäst är att clona från GitHub, dvs skapa ett repo först i github
 sedan gå lokalt och stä'll dig i den katalogen där du vill ha en underkatalog för projektet
